@@ -1,0 +1,37 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "Sitio Web De la Biblioteca Universitaria",
+    "owner": "EE Programación Segura",
+    "description": "El sitio web de la biblioteca universitaria es la primera implementación de un sitio web para brindar servicios en línea a los bibliotecarios y usuarios de la biblioteca (estudiantes y personal universitario). Como esta es la primera implementación del sitio web, la funcionalidad será limitada. Serán tres usuarios de la aplicación: 1. Estudiantes, 2. Personal, 3. Bibliotecarios.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 1,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.0",
+        "cells": [],
+        "description": "Diagrama de flujo de datos para el sitio web de la biblioteca universitaria"
+      },
+      {
+        "id": 2,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.0",
+        "cells": [],
+        "description": "Diagrama de flujo de datos de inicio de sesión del usuario para el sitio web de la biblioteca universitaria"
+      }
+    ],
+    "diagramTop": 3,
+    "reviewer": "Guillermo Humberto Vera Amaro",
+    "threatTop": 0
+  }
+}
